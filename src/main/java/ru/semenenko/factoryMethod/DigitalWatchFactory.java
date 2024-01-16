@@ -5,4 +5,5 @@ public class DigitalWatchFactory implements WatchFactory {
     public Watch createWatch() {
         return new DigitalWatch();
     }
+
 }
